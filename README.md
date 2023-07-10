@@ -1,1 +1,1 @@
-# nba-ledens-app
+# nba-legends-app
