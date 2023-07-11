@@ -27,8 +27,6 @@ Dette projet laget av mest `React` bibliotek.
 
 ## Produksjon
 
-<img src="./nba-app.gif" alt ="deneme">
-
 ![deneme](./nba-app.gif)
 
 På slutten av prosjektet skal følgende emner dekket;
