@@ -49,4 +49,4 @@ const [state,setState] = useState(false)
 
 ## Demo
 
-[Live]( )
+[Live](https://nba-legend-app54.netlify.app/ )
