@@ -49,11 +49,5 @@ const [state,setState] = useState(false)
 ```
 
 ## Demo
-<<<<<<< HEAD
-=======
-
-[Live]( )
-
->>>>>>> 2fe72a1686f3774b13d9c595dbceef5fa8ec7920
 
 [Live]( )
