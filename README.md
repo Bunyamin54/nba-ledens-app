@@ -5,6 +5,7 @@ Prosjektet har som mål å lage en Nba Legends-app.
 
 Dette projet laget av mest `React` bibliotek.
 
+```
  NBA Legends app
 |
 |----readme.md     
@@ -24,7 +25,7 @@ Dette projet laget av mest `React` bibliotek.
 │    └── index.css
 ├── package.json
 └── yarn.lock
-
+```
 ## Produksjon
 
 <img src="./nba-app.gif" alt ="deneme">
